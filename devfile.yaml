@@ -69,4 +69,4 @@ starterProjects:
   - name: springbootproject
     git:
       remotes:
-        origin: https://github.com/sumitmaji/springboot-project.git
+        origin: https://github.com/sumitmaji/workspace.git
