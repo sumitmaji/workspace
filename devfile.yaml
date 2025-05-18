@@ -9,6 +9,8 @@ metadata:
     - Spring
     - Maven
     - H2
+    - Python
+    - Reactjs
   projectType: springboot
   language: Java
   version: 1.4.0
