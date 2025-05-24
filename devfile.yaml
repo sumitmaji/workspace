@@ -23,8 +23,8 @@ components:
         - tail
         - '-f'
         - /dev/null
-      memoryLimit: 4Gi
-      cpuLimit: 3000m
+      memoryLimit: 2Gi
+      cpuLimit: 1500m
       mountSources: true
       endpoints:
         - name: https-springbt
